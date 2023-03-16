@@ -3,7 +3,7 @@
 
   <default sync-j="2"/>
 
-  <remote fetch="git://github.com/OpenNuvoton" name="Github_OpenNuvoton"/>
+  <remote fetch="https://github.com/OpenNuvoton" name="Github_OpenNuvoton"/>
   <remote fetch="https://gitee.com/OpenNuvoton" name="Gitee_OpenNuvoton"/>
 
   <project remote="Github_OpenNuvoton"
